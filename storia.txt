@@ -1,0 +1,5 @@
+    1  echo "Il gatto miagola" > animali.txt
+    2  echo "Il cane abbaia" >> animali.txt
+    3  echo "Il gatto dorme" >> animali.txt
+    4  grep "gatto" animali.txt
+    5  history > storia.txt
